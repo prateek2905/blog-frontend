@@ -1,3 +1,4 @@
+Website is hosted and ready to be viewed
 # [Click to visit the website](https://blogworks.netlify.app/)
 
 # Nuxt 3 Minimal Starter
